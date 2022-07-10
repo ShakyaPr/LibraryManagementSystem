@@ -10,9 +10,14 @@ These are,
   2. Insert books to the system
   3. Withdraw books to students - Here check whether specific user has already taken a book and only if not book will be issued
   
-   <img alt="register" src="https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/withdraw.png"  style="width:450px;height:300px;">
+   <img alt="register" src="https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/withdraw.png"  style="width:350px;height:300px;">
    
   5. Return the book to system again
-  6. Check statistics such as listing availble books list, issued book list, returned list etc.
+  
+  <img alt="register" src="https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/returnbook.png"  style="width:350px;height:300px;">
+  
+  7. Check statistics such as listing availble books list, issued book list, returned list etc.
+  
+  <img alt="register" src="https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/statistics.png"  style="width:350px;height:300px;">
   
 Here, `MySQL` has been used as database management system. 
