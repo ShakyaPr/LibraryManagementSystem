@@ -5,7 +5,7 @@ These are,
   1. Register new students
   
 <!--   ![register](https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/newmember.png) -->
- <img alt="register" src="https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/newmember.png">
+ <img alt="register" src="https://github.com/ShakyaPr/LibraryManagementSystem/blob/main/Images/newmember.png"  style="width:100px;height:100px;">
 
   2. Insert books to the system
   3. Withdraw books to students - Here check whether specific user has already taken a book and only if not book will be issued
