@@ -3,6 +3,8 @@
 This is Java based Library Management System with several features as shown in below. 
 These are,
   1. Register new students
+  
+  (https://github.com/ShakyaPr/LibraryManagementSystem/tree/main/Images/newmwmber.png)
   2. Insert books to the system
   3. Withdraw books to students - Here check whether specific user has already taken a book and only if not book will be issued
   4. Return the book to system again
